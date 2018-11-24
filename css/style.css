@@ -48,7 +48,9 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-#main
+#main img {
+  
+}
 
 #press img {
 	border: 5px #ccc solid;
