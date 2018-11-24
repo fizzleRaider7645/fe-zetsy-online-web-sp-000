@@ -52,12 +52,12 @@ header a:hover {
   
 }
 
-#featured a {
+#main a {
 	color: #1783bb;
 	text-decoration: none;
 }
 
-#featured a:hover {
+#main a:hover {
 	text-decoration: underline;
 }
 
